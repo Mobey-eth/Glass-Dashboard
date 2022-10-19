@@ -22,4 +22,4 @@ It was intentionally made to have an appearance of a glass effect, hence the con
 
 ![Dashboard Image](./Glasswebsite.png "Glass website Dashboard")
 
-*Always do well to check out [W3 Schools](https://www.w3schools.com/css/default.asp) as they have an awesome library of CSS code well documented.*
+*Always do well to check out [W3 Schools](https://www.w3schools.com/css/default.asp) as they have an awesome library of CSS code that's well documented.*
