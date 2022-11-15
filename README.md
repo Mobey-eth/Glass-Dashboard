@@ -1,6 +1,6 @@
 # Glass Dashboard Project 
 This is a simple user dashboard of a gaming subscription service built using HTML and CSS.
-It was intentionally made to have an appearance of a frozen glass effect(Glassmorphism), hence the conspicious name lol.
+It was intentionally made to have an appearance of a frozen glass effect (Glassmorphism), hence the conspicious name lol.
 
 ### Requirements for project
 ---
